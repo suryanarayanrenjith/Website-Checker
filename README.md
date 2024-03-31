@@ -17,3 +17,7 @@ Since my tool is written in C#, .NET 8.0 Desktop Runtime is required in order to
 ## Limitations
 - Sometimes gives a false website down alert.
 - No releases for Linux operating system.
+
+## License
+
+[MIT](https://github.com/suryanarayanrenjith/Website-Checker/blob/main/LICENSE)
