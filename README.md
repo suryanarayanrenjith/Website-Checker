@@ -8,7 +8,7 @@ My tool is available in the [Releases](https://github.com/suryanarayanrenjith/We
 
 ## Prerequisites
 Since my tool is written in C#, .NET 8.0 Desktop Runtime is required in order to run this tool. You can download it from this 
-[link.](https://download.visualstudio.microsoft.com/download/pr/51bc18ac-0594-412d-bd63-18ece4c91ac4/90b47b97c3bfe40a833791b166697e67/windowsdesktop-runtime-8.0.3-win-x64.exe")
+[link.](https://download.visualstudio.microsoft.com/download/pr/0ff148e7-bbf6-48ed-bdb6-367f4c8ea14f/bd35d787171a1f0de7da6b57cc900ef5/windowsdesktop-runtime-8.0.5-win-x64.exe")
 ## How to Use
 1) Enter the website URL.
 2) Click on Check!
